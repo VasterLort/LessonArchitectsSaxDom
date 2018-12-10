@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<author id="1">
+		<name>Maxim</name>
+		<surname>Gorky</surname>
+		<age>36</age>
+	</author>
+	<author id="2">
+		<name>Alexander</name>
+		<surname>Pushkin</surname>
+		<age>32</age>
+	</author>
+	<author id="3">
+		<name>Leo</name>
+		<surname>Tolstoy</surname>
+		<age>46</age>
+	</author>
+</library>

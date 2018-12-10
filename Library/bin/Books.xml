@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<author id="1">
+		<book id="1">
+			<title>Foma Gordeev</title>
+		</book>
+		<book id="2">
+			<title>Into people</title>
+		</book>
+	</author>
+	<author id="2">
+		<book id="1">
+			<title>Onegin</title>
+		</book>
+		<book id="2">
+			<title>Captain's daughter</title>
+		</book>
+	</author>
+	<author id="3">
+		<book id="1">
+			<title>War and World</title>
+		</book>
+	</author>
+</library>
